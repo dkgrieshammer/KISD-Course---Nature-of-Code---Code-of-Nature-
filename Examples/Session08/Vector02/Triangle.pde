@@ -27,7 +27,8 @@ class Triangle {
 		PVector mousePos = new PVector(mouseX, mouseY);
 		PVector direction = PVector.sub(mousePos, location);
 		//calculate angle
-		rot = direction.heading();
+//		rot = direction.heading();
+                rot = atan2(direction.y,direction.x);
 
 		//calculate size by distance of mouse and Triangle
 		mySize = location.dist(mousePos);
