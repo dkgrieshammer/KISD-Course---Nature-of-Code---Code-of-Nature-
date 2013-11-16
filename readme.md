@@ -1,6 +1,6 @@
 
 ## Nature of Code - Code of Nature
-KISD 2013 |Andreas Muxel & David K. Grieshammer
+KISD 2013 | Andreas Muxel & David K. Grieshammer
 
 ---
 This is the project page of the combined courses Code of Nature & Nature of Code at KISD, Köln International School of Design 2013. It's an experiment to approach Design- & Media-theory from discussion and discourse, by reading and writing essays and articles, as well as by exploration of semantics and syntactics of codes and practicing programming.
@@ -18,4 +18,5 @@ We will have a look on a mechanistic world view, the history of cybernetics and 
 ### Final Exhibition
 
 As soon as the final publication is ready it will be linked here.
+
 Github-Project-Page: [Link](http://dkgrieshammer.github.io/KISD-Course---Nature-of-Code---Code-of-Nature-/)
