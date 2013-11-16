@@ -1,12 +1,12 @@
 
-Ball myBall;
+Triangle myDreieck;
 
 void setup(){
-	size(1024, 800, OPENGL);
-	myBall = new Ball(width/2, height/2);
+	size(1024, 800);
+	myDreieck = new Triangle(width/2, height/2);
 }
 
 void draw(){
 	background(0);
-	myBall.draw();
+	myDreieck.draw();
 }

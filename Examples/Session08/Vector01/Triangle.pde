@@ -1,4 +1,4 @@
-class Ball {
+class Triangle {
 
 	PVector location;
 	PVector velocity;
@@ -7,7 +7,7 @@ class Ball {
 	float rot;
 
 	//constructor
-	Ball (int xPos, int yPos) {
+	Triangle (int xPos, int yPos) {
 		location = new PVector(xPos, yPos);
 
 	}
