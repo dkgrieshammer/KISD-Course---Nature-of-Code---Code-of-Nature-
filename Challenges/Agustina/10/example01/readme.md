@@ -1,4 +1,4 @@
-<img width="100%" src="screenshot.png">
+<img width="50%" src="screenshot.png">
 
 ### Double Pendulum
 
