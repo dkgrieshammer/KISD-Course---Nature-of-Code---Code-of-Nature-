@@ -17,6 +17,7 @@ We will have a look on a mechanistic world view, the history of cybernetics and 
 
 ### Final Exhibition
 
-As soon as the final publication is ready it will be linked here.
+The essays and experiements of course can be seen here:
+[http://kisd.github.io/Nature-of-Code-Code-of-Nature/](http://kisd.github.io/Nature-of-Code-Code-of-Nature/) 
 
 Github-Project-Page: [Link](http://dkgrieshammer.github.io/KISD-Course---Nature-of-Code---Code-of-Nature-/)
